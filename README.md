@@ -4,4 +4,5 @@
 
 ## Screenshot 5.1: ![image](https://github.com/jjurens/2700-finals/assets/130954336/25743f2f-9a73-4c8f-95ab-22e5aa042717)
 
-## Screenshot 5.2:
+## Screenshot 5.2: ![image](https://github.com/jjurens/2700-finals/assets/130954336/32f2b79c-ebc5-4133-9bdb-1176685b7d14)
+
